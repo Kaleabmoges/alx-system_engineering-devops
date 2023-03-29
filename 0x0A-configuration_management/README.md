@@ -1,1 +1,1 @@
-Solutions for 0x0A. Configuration management Project
+Solutions for 0x0A Configuration management Project
